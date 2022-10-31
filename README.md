@@ -5,7 +5,18 @@
 
 - ✉️ how to reach me ? Discord (Ragnarok#0080), Youtube (https://www.youtube.com/channel/UCv3RERvWZHPDIGvt0yXMXig)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavRagnarok&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <!---
 XavRagnarok/XavRagnarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
