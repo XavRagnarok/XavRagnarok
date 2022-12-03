@@ -73,7 +73,7 @@ Learning Front-end Developement <img src="https://media.giphy.com/media/WUlplcMp
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavRagnarok&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <!---
