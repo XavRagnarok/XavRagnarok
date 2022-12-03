@@ -1,7 +1,17 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47pa0c8ik75j4e933ioujqyo90mmqnwv5qp81y0fmy&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://cdn.discordapp.com/attachments/1036661975180124170/1048537715857174548/rag_symbol.png" width="100"/>
 </div>
 
+<br>
+
+<div id="badges" align="center">
+  <a href="(https://discordapp.com/users/638079978789011466)" target="-blank">
+    <img src="https://img.shields.io/badge/Discord-7289da?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@ragnarok2056" target="-blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 
 
