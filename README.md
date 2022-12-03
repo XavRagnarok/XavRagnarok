@@ -45,7 +45,7 @@ Learning Front-end Developement <img src="https://media.giphy.com/media/WUlplcMp
   
   ---
 
-  ### :hammer_and_wrench: Languages:
+  ### :hammer_and_wrench: Languages
 
   <table>
     <tr>
@@ -67,11 +67,13 @@ Learning Front-end Developement <img src="https://media.giphy.com/media/WUlplcMp
 
   ---
 
-  ### :fire: My Stats :
+  ### :fire: My Stats
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XavRagnarok&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavRagnarok&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <!---
