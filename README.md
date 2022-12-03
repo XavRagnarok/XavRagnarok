@@ -18,7 +18,9 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=XavRagnarok&show_icons=true" /> 
-</picture>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</picture>
+
+<div style="text-align: right;"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" width="100" alt="My Image" /></div>
 
 
 
