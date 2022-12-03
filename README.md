@@ -24,12 +24,12 @@
   
 <div align="center">
   <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="600" height="300"/>
+
+
+  ---
+
+  ### :man_technologist: About Me
 </div>
-
----
-
-### :man_technologist: About Me :
-
 
 Learning Front-end Developement <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -41,35 +41,39 @@ Learning Front-end Developement <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/Discord-7289da?logo=Discord&logoColor=white&)](https://discordapp.com/users/638079978789011466)
 
----
+<div align="center">
+  
+  ---
 
-### :hammer_and_wrench: Languages:
+  ### :hammer_and_wrench: Languages:
 
-<table>
-  <tr>
-    <th>Pawn</th>
-    <th>HTML</th>
-    <th>CSS</th>
-  </tr>
-  <tr>
-    <td><center><img height="64em" src="https://img.icons8.com/emoji/512/chess-pawn.png"/></center></td>
-    <td><center><img height="64em" src="https://img.icons8.com/color/512/html-5.png"/></td>
-    <td><center><img height="64em" src="https://img.icons8.com/color/2x/css3.png"/></center></td>
-  </tr>
-  <tr>
-    <td>Experince 5/10</td>
-    <td>Experince 3/10</td>
-    <td>Experince 2/10</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <th>Pawn</th>
+      <th>HTML</th>
+      <th>CSS</th>
+    </tr>
+    <tr>
+      <td><center><img height="64em" src="https://img.icons8.com/emoji/512/chess-pawn.png"/></center></td>
+      <td><center><img height="64em" src="https://img.icons8.com/color/512/html-5.png"/></td>
+      <td><center><img height="64em" src="https://img.icons8.com/color/2x/css3.png"/></center></td>
+    </tr>
+    <tr>
+      <td>Experince 5/10</td>
+      <td>Experince 3/10</td>
+      <td>Experince 2/10</td>
+    </tr>
+  </table>
 
----
+  ---
 
-### :fire: My Stats :
+  ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XavRagnarok&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XavRagnarok&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavRagnarok&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 <!---
 XavRagnarok/XavRagnarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
