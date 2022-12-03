@@ -5,10 +5,10 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="(https://discordapp.com/users/638079978789011466)" target="-blank">
+  <a href="(https://discordapp.com/users/638079978789011466)" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289da?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/@ragnarok2056" target="-blank">
+  <a href="https://www.youtube.com/@ragnarok2056" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
