@@ -59,9 +59,9 @@ Learning Front-end Developement <img src="https://media.giphy.com/media/WUlplcMp
       <td><center><img height="64em" src="https://img.icons8.com/color/2x/css3.png"/></center></td>
     </tr>
     <tr>
-      <td>Experince 5/10</td>
-      <td>Experince 3/10</td>
-      <td>Experince 2/10</td>
+      <td>Experince 10/10</td>
+      <td>Experince 7/10</td>
+      <td>Experince 7/10</td>
     </tr>
   </table>
 
